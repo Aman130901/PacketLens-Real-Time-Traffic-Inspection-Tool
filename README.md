@@ -194,7 +194,13 @@ MAX_PACKETS = 10000                    # Session packet cap
 PacketLens is intended for educational use and for inspecting networks you own or are authorized to monitor. Capturing traffic on networks without permission may be illegal in your jurisdiction. Use responsibly.
 
 ---
+ 
+## 📄 License
+ 
+MIT License — see the LICENSE file for details.
 
+ ---
+ 
 ## 👤 Author
 
 **Aman Sonkar**
